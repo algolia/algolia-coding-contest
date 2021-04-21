@@ -90,7 +90,7 @@ _Please send them to codingcontest[at]algolia.com_
 
 - Can a website/app already using Algolia be submitted?
 
-_No. The goal of this contest is for you to build something new. We want to make the contest fair to every participants who have until May 5th to build their project. However you can definitely get inspired by one of your previous projects using Algolia!_
+_No. The goal of this contest is for you to build something new. We want to make the contest fair to every participant who has until May 5th to build their project. However, you can definitely get inspired by one of your previous projects using Algolia!_
 
 ### Coding Contest Official Rules
 
