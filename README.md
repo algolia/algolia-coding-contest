@@ -17,7 +17,7 @@ Exciting news! For each category, the winner will receive one of the following:
 - A smartphone of your choice between an iPhone 12 64 Go / a Samsung S21 128Go / an OPPO Find X3 Neo 256 Go
 - Or an $800 Amazon giftcard.
 
-On top of that, each participant is entitled to a 1-month coupon to use Algolia for free. 
+On top of that, each participant is entitled to a 1-month coupon to use Algolia for free. Please send us an email to codingcontest[at]algolia.com with “Coupon request” in the subject line.
 
 # Project requirements
 
@@ -83,6 +83,9 @@ _The Algolia jury will deliberate during 2 weeks after the last day of submissio
 - How will I know I am the winner of my category?
 
 _You will receive an email from the Algolia team. They will contact you about the prize and how to organize the shipping._
+
+- If I have some questions for the organizers, where should I send them?
+_Please send them to codingcontest[at]algolia.com_
 
 ### Coding Contest Official Rules
 
