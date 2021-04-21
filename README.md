@@ -21,7 +21,7 @@ On top of that, each participant is entitled to a 1-month coupon to use Algolia 
 
 # Project requirements
 
-Build a search interface using Algolia. It can be for mobile or the web. You can integrate it into an existing website or app, or create a simple, standalone interface for the contest.
+Build a search interface using Algolia. It can be for mobile or the web. You can integrate it into an existing website or app that has no search yet, or create a simple, standalone interface for the contest.
 
 In you are not familiar with Algolia, we suggest you follow our [Quick Start guide](https://www.algolia.com/doc/guides/getting-started/quick-start/), which will help you (a) send data to Algolia and (b) build a UI. You can also use our [Interactive Tutorial](https://www.algolia.com/doc/onboarding/#/pick-dataset) for the same purposes.
 
@@ -86,6 +86,9 @@ _You will receive an email from the Algolia team. They will contact you about th
 
 - If I have some questions for the organizers, where should I send them?
 _Please send them to codingcontest[at]algolia.com_
+
+- Can a website/app already using Algolia be submitted?
+_No. The goal of this contest is for you to build something new. We want to make the contest fair to every participants who have until May 5th to build their project. However you can definitely get inspired by one of your previous projects using Algolia!_
 
 ### Coding Contest Official Rules
 
