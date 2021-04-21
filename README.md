@@ -85,9 +85,11 @@ _The Algolia jury will deliberate during 2 weeks after the last day of submissio
 _You will receive an email from the Algolia team. They will contact you about the prize and how to organize the shipping._
 
 - If I have some questions for the organizers, where should I send them?
+
 _Please send them to codingcontest[at]algolia.com_
 
 - Can a website/app already using Algolia be submitted?
+
 _No. The goal of this contest is for you to build something new. We want to make the contest fair to every participants who have until May 5th to build their project. However you can definitely get inspired by one of your previous projects using Algolia!_
 
 ### Coding Contest Official Rules
