@@ -23,7 +23,7 @@ On top of that, each participant is entitled to a 1-month coupon to use Algolia 
 
 Build a search interface using Algolia. It can be for mobile or the web. You can integrate it into an existing website or app that has no search yet, or create a simple, standalone interface for the contest.
 
-In you are not familiar with Algolia, we suggest you follow our [Quick Start guide](https://www.algolia.com/doc/guides/getting-started/quick-start/), which will help you (a) send data to Algolia and (b) build a UI. You can also use our [Interactive Tutorial](https://www.algolia.com/doc/onboarding/#/pick-dataset) for the same purposes.
+If you are not familiar with Algolia, we suggest you follow our [Quick Start guide](https://www.algolia.com/doc/guides/getting-started/quick-start/), which will help you (a) send data to Algolia and (b) build a UI. You can also use our [Interactive Tutorial](https://www.algolia.com/doc/onboarding/#/pick-dataset) for the same purposes.
 
 Additionally, feel free to use any of Algolia’s features: facets, solutions, paging, menus, and so on. Check out our [solutions page](https://www.algolia.com/doc/guides/solutions/gallery-overview/) in the docs for tutorials, and check our [inspiration library](https://www.algolia.com/search-inspiration-library/) to see what you can build. 
 
