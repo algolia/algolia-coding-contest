@@ -92,6 +92,10 @@ _Please send them to codingcontest[at]algolia.com_
 
 _No. The goal of this contest is for you to build something new. We want to make the contest fair to every participant who has until May 5th to build their project. However, you can definitely get inspired by one of your previous projects using Algolia!_
 
+- Does the code have to be public or can I submit a private repository?
+
+_You can submit a private repository, but we will ask you to give access to the jury members when you submit on the codingcontest[at]algolia.com email adress._
+
 ### Coding Contest Official Rules
 
 The Official Rules of the Coding Contest are available here. By participating to the Coding Contest, you agree with the Algolia Coding Contest [Official Rules](https://drive.google.com/file/d/1tO_zOR_noyTxfkpB18gI6MNmcSu9TWRs/view?usp=sharing).
