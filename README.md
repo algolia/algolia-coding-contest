@@ -14,7 +14,7 @@ The deadline for all submissions is **Wednesday, May 5th, 11:59pm PST**.
 # The prizes
 
 Exciting news! For each category, the winner will receive one of the following:
-- A smartphone of your choice between an iPhone 12 64 Go / a Samsung S21 128Go / an OPPO Find X3 Neo 256 Go
+- A smartphone of your choice between an iPhone 12 64 GB / a Samsung S21 128GB / an OPPO Find X3 Neo 256 GB
 - Or an $800 Amazon giftcard.
 
 On top of that, each participant is entitled to a 1-month coupon to use Algolia for free. Please send us an email to codingcontest[at]algolia.com with “Coupon request” in the subject line.
