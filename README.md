@@ -2,7 +2,7 @@
   <img width="750" height="375" src="https://i.postimg.cc/7PCfCyN2/Algolia-Contest-Linkedin.png">
 </p>
 
-Algolia is happy to kick off a **Coding Contest**!
+[Algolia](https://www.algolia.com) is happy to kick off a **Coding Contest**!
 
 To participate, it's simple:
 - Build a project using Algolia, choosing one of the 3 categories listed below
