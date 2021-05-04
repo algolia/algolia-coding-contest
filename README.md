@@ -7,7 +7,7 @@
 To participate, it's simple:
 - Build a project using Algolia, choosing one of the 3 categories listed below
 - Place your submission in a GitHub repository
-- Send your project to **_codingcontest[at]algolia.com_**. In the subject line, please specify First, Second or Third category. In the body of the email, mention your first and last name, as well as a short description of the project (in 1 or 2 senteces).
+- Send your project to **_codingcontest[at]algolia.com_**. In the subject line, please specify First, Second or Third category. In the body of the email, mention your first and last name, as well as a short description of the project (in 1 or 2 sentences).
 
 The deadline for all submissions is **Wednesday, May 5th, 11:59pm PST**. 
 
